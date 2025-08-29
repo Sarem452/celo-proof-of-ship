@@ -39,4 +39,5 @@ It serves as a public proof of ship to show that I successfully created and depl
 This repo acts as a **Proof of Ship**:  
 - The code is publicly available.  
 - The contract is live on **Celo Mainnet**.  
-- Anyone can check the address on [Celoscan](https://celoscan.io/address/0x0F28Febe9C10Fba188a854109a68AA87cbdDE5A4).  
+- Anyone can check the address on [Celoscan](https://celoscan.io/address/0x0F28Febe9C10Fba188a854109a68AA87cbdDE5A4).
+- ..
